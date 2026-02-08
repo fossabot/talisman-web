@@ -4,6 +4,7 @@
 
 [![website-link](https://img.shields.io/website?label=app.talisman.xyz&style=flat-square&up_message=online&url=https%3A%2F%2Fapp.talisman.xyz)](https://app.talisman.xyz)
 [![discord-link](https://img.shields.io/discord/858891448271634473?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/talisman)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Ftalisman-web.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Ftalisman-web?ref=badge_shield)
 
 **Unlock the Paraverse** with Talisman Portal.  
 A Polkadot, Kusama & Parachain dashboard for the community.
@@ -50,3 +51,7 @@ cp apps/portal/.env.example apps/portal/.env
 ```sh
 yarn dev
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Ftalisman-web.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Ftalisman-web?ref=badge_large)
